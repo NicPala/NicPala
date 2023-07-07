@@ -1,5 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Nicolas Palazuelos</h1>
-<h3 align="center">A passionate Data Analyst detail-oriented Analyst with a knack for interpreting and communicating complex data. Proven ability to develop efficient solutions and recommend process improvements. Experienced in financial forecasting and market analysis. Skilled in Tableau, CRM, R, Microsoft Office, and Power BI. I have a Bachelor’s degree in Business Administration from BYU-I.</h3>
+<h3 align="center">A passionate Data Analyst, detail-oriented with a knack for interpreting and communicating complex data. Proven ability to develop efficient solutions and recommend process improvements. Experienced in financial forecasting and market analysis. Skilled in Tableau, Microsoft Office, and Power BI. I have a Bachelor’s degree in Business Administration from BYU-I.</h3>
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif")
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
